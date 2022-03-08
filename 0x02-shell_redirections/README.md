@@ -1,1 +1,1 @@
-Shell permission commands readme
+fixed the checker issues
