@@ -1,1 +1,1 @@
-ALX shell redirections task done
+ALX variable expansions task week 3
